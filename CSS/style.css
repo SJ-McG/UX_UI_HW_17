@@ -1,0 +1,31 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+p {
+    text-align: center;
+    font-style: roboto;
+  }
+  display: inline-block;
+  vertical-align: top;
+  div {
+      logo: width:23%;
+      padding: 1%;
+  }
+  div{
+      width: 73%;
+      padding: 1%;
+  }
+  ul{
+      width: 50%;
+      margin-left: auto;
+  }
+  heroImg{
+      height: 50px;
+      padding: 25px
+  }
+  p {
+      width: 500px
+      margin: 0 auto; 
+  }
+  [attribute] {
+    background color: #373738
+  }
