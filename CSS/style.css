@@ -4,8 +4,10 @@ p {
     text-align: center;
     font-style: roboto;
   }
+  body { 
   display: inline-block;
   vertical-align: top;
+  }
   div {
       logo: width:23%;
       padding: 1%;
@@ -20,12 +22,12 @@ p {
   }
   heroImg{
       height: 50px;
-      padding: 25px
+      padding: 25px;
   }
   p {
-      width: 500px
+      width: 500px;
       margin: 0 auto; 
   }
   [attribute] {
-    background color: #373738
+    background-color: #373738;
   }
